@@ -1,0 +1,14 @@
+.ul {
+  list-style-type: none;
+}
+
+.lo {
+  margin: 20px 0;
+}
+
+.fi {
+  text-decoration: underline;
+  text-align: center;
+
+
+}
